@@ -1,0 +1,31 @@
+/* add your CSS here */
+
+.outborder{
+  border: solid black 1px;
+  padding: 20px;
+  width: 310px;
+  border-radius: 15px;
+  background-image:url("https://thumbs.dreamstime.com/b/red-gold-dragon-reptile-fish-snake-skales-pattern-backround-skin-d-rendered-background-141706471.jpg")
+}
+
+.inborder{
+  border: solid black 1px;
+  padding: 3px;
+  width: 300px;
+  border-radius:15px;
+  background-color: white
+}
+
+.NB{list-style:none}
+
+.B{font-weight:bold;
+  color:lightgreen
+   }
+
+.Green{color:lightgreen}
+    
+
+
+    
+
+
